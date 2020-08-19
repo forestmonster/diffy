@@ -10,7 +10,7 @@ aniso8601==8.0.0          # via flask-restful
 attrs==19.1.0
 blinker==1.4              # via raven
 boto3==1.9.131
-botocore==1.12.131
+botocore==1.17.46
 click-log==0.3.2
 click==7.0
 croniter==0.3.30          # via rq-scheduler
