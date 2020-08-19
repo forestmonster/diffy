@@ -15,7 +15,7 @@ aws-xray-sdk==0.95
 babel==2.8.0              # via sphinx
 bandit==1.6.2
 blinker==1.4
-boto3==1.9.131
+boto3==1.14.45
 boto==2.49.0
 botocore==1.12.131
 bumpversion==0.5.3
