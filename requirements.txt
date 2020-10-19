@@ -35,5 +35,5 @@ simplejson==3.17.0        # via swag-client
 six==1.13.0               # via jsonschema, pyrsistent, python-dateutil, retrying
 swag-client==0.4.7
 tabulate==0.8.6
-urllib3==1.25.7           # via botocore
+urllib3==1.25.11           # via botocore
 zipp==0.6.0               # via importlib-metadata
