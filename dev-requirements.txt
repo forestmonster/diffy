@@ -25,7 +25,7 @@ cfgv==2.0.1               # via pre-commit
 chardet==3.0.4            # via requests
 click-log==0.3.2
 click==7.0
-codecov==2.0.15
+codecov==2.1.11
 cookies==2.2.1
 coverage==5.0.1           # via codecov, pytest-cov
 croniter==0.3.29
